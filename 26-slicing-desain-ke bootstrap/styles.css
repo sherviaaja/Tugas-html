@@ -1,0 +1,89 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar.navbar-dark.bg-dark {
+  background-color: #131313 !important;
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  font-weight: 100;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.hero .card-title {
+  font-style: italic;
+  font-weight: bold;
+  color : #B8860B;
+  margin-top: 500px;
+}
+
+.menu {
+  background-color: #A9A9A9;
+}
+
+.menu .section-title {
+  font-weight: 700px
+  color: #131313;
+}
+.menu .section-paragraph {
+  color: #131313;
+}
+
+.menu .card {
+  background-color: #131313;
+  color: #fff;
+}
+
+.menu .card img {
+  width: 50%;
+  height: 550px;
+  border: 2px solid #fff;
+}
+
+.menu.card-title {
+  margin-top: 20px;
+  font.-weight: 200px;
+}
+
+.menu .card .btn {
+  margin-top: 5px;
+  font-weight: 200px;
+}
+
+.testimoni {
+  background-color: #000000;
+}
+
+.testimonial {
+  background-color: #000000;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(169, 169,169);
+  margin-bottom: 30px;
+}
+
+.testimonial img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.testimonial p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.testimonial .reviewer {
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #131313;
+}
